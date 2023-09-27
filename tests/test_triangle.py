@@ -1,5 +1,4 @@
 import unittest
-from ShapeCalculator.shapecalculator import ShapeCalculator
 from ShapeCalculator.Triangle import Triangle
 
 
